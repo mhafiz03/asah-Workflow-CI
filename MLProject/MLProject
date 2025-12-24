@@ -1,0 +1,5 @@
+name: Titanic Survivability
+
+entry_points:
+  main:
+    command: "python modelling.py"
